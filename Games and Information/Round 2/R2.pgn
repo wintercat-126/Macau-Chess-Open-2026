@@ -1,1 +1,71 @@
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.10"]
+[Round "1"]
+[White "Tyler"]
+[Black "Thomas"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White Won by resignation"]
+[TimeControl "5400+30"]
+[Board "2"]
 
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O d6 6. c3 O-O 7. a4 a5 8. Nbd2
+Bg4 9. h3 Bh5 10. Re1 Ne7 11. Nf1 h6 12. Ng3 Bg6 13. Nh4 Bh7 14. Qf3 Qd7 15.
+Bxh6 gxh6 16. Qxf6 c6 17. Nh5 1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.10"]
+[Round "1"]
+[White "Andy"]
+[Black "Luka"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1/2-1/2"]
+[Termination "Draw by 3-fold repetition"]
+[TimeControl "5400+30"]
+[Board "4"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bf5 4. a3 dxc4 5. d5 Na5 6. Qa4+ c6 7. Bd2 Nb3 8. dxc6
+bxc6 9. Ra2 Bxb1 10. Qxc6+ Qd7 11. Qxa8+ Qd8 12. Qc6+ Qd7 13. Qa8+ Qd8 14. Qc6+
+Qd7 15. Qa8+ 1/2-1/2
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.10"]
+[Round "1"]
+[White "Alfred"]
+[Black "Elvan"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White won by resignation"]
+[TimeControl "5400+30"]
+[Board "5"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. f3 a6 6. a4 Nc6 7. Nge2 O-O 8. g4 Nd7
+9. Ng3 e5 10. d5 Nd4 11. h4 c5 12. Nb1 Qb6 13. Bc1 a5 14. Na3 f5 15. gxf5 gxf5
+16. Nxf5 Nxf5 17. exf5 Rxf5 18. Nc4 Qc7 19. Bh3 Rf7 20. Be6 Nf6 21. Bxf7+ Kxf7
+22. Qd3 b6 23. Bg5 Kg8 24. Kd2 Bb7 25. Rhg1 Nh5 26. Rg2 Ba6 27. Qe4 Rf8 28. Qg4
+Qf7 29. Nxd6 Qxf3 30. Qxf3 Rxf3 31. Rag1 Kf8 32. Ne4 Bc4 33. d6 Be6 34. Be7+ Kg8
+35. Ng5 Bd7 36. Nxf3 1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.10"]
+[Round "1"]
+[White "David"]
+[Black "Matias"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White won by resignation"]
+[TimeControl "5400+30"]
+[Board "6"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qg4 g6 5. Qf3 Nf6 6. Nge2 O-O 7. d3 Re8 8. g4
+Nd4 9. Nxd4 Bxd4 10. g5 Nh5 11. Bxf7+ Kh8 12. Bxe8 Qxe8 13. Be3 Bxe3 14. fxe3 d6
+15. O-O Be6 16. Nd5 Bxd5 17. exd5 Qe7 18. h4 c6 19. Qf7 Qxf7 20. Rxf7 cxd5 21.
+Rxb7 d4 22. exd4 exd4 23. Re1 a5 24. Ree7 *
