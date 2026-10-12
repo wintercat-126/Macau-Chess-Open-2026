@@ -8,7 +8,7 @@
 ## 📅 Round 1
 The following games had data recording issues on the official scoresheets and are undergoing reconstruction or evaluation:
 
-| Board | Matchup | Status | Issue |
+| Board | Matchup | Issue | Status |
 | :---: | :--- | :--- | :--- |
 | **Board 3** | Benson vs. Ezra | Missing or illegal moves | Currently under review |
 | **Board 4** | Theo vs. Andy | Missing or illegal moves | Currently under review |
@@ -21,8 +21,8 @@ The following games had data recording issues on the official scoresheets and ar
 ## 📅 Round 2
 *Data tracking for Round 2 is actively being updated. Adjustments will be listed below as scoresheets are processed.*
 
-| Board | Matchup | Status / Issue |
-| :---: | :--- | :--- |
-| **Board 3** |
-| **Board 11** |
-| **Board 12** |
+| Board | Matchup | Issue | Status |
+| :---: | :--- | :--- | :--- |
+| **Board 3** | Julian vs. Benson | White Won by Abandonment | Game Excluded |
+| **Board 11** | Sixing Li vs. Mike Ng | White Won by Abandonment | Game Excluded |
+| **Board 12** | Chase vs. McKenna | Black Won by Abandonment | Game Excluded |
