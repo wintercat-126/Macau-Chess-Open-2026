@@ -8,13 +8,13 @@
 ## 📅 Round 1
 The following games had data recording issues on the official scoresheets and are undergoing reconstruction or evaluation:
 
-| Board | Matchup | Status / Issue |
-| :---: | :--- | :--- |
-| **Board 3** | Benson vs. Ezra | Missing or illegal moves; currently under review |
-| **Board 4** | Theo vs. Andy | Missing or illegal moves; currently under review |
-| **Board 12** | Matias vs. Serena | Missing or illegal moves; currently under review |
-| **Board 14** | McKenna vs. Matthew Wong | Missing or illegal moves; currently under review |
-| **Board 19** | Gabriel Lo vs. Rory | Missing or illegal moves; currently under review |
+| Board | Matchup | Status | Issue |
+| :---: | :--- | :--- | :--- |
+| **Board 3** | Benson vs. Ezra | Missing or illegal moves | Currently under review |
+| **Board 4** | Theo vs. Andy | Missing or illegal moves | Currently under review |
+| **Board 12** | Matias vs. Serena | Uncompleted game score | Currently under review |
+| **Board 14** | McKenna vs. Matthew Wong | Missing or illegal moves | Currently under review |
+| **Board 19** | Gabriel Lo vs. Rory | Missing or illegal moves | Currently under review |
 
 ---
 
