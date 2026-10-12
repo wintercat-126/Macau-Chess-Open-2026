@@ -1,4 +1,4 @@
-# Macau Chess Open Games Archive
+# 2026 Macau Chess Open Games Archive
 
 This is an unofficial archive of games from the Macau Chess Open. This archive was created in 2026 and is maintained by tournament players. This repository is also used for Lichess Broadcasts.
 
