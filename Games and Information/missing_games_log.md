@@ -23,3 +23,6 @@ The following games had data recording issues on the official scoresheets and ar
 
 | Board | Matchup | Status / Issue |
 | :---: | :--- | :--- |
+| **Board 3** |
+| **Board 11** |
+| **Board 12** |
