@@ -8,7 +8,7 @@ You can follow the replayed games of the **2026 Macau Chess Open** with full com
 
 | 📅 Tournament Round | 🔗 Lichess Broadcast Link | 🕒 Transmission Status |
 | :---: | :--- | :--- |
-| **Round 1** | *Broadcast link pending* | ⏳ Pending Setup |
+| **Round 1** | *[Round 1](https://lichess.org/broadcast/43rd-macau-chess-open/round-1/ikXM3vVQ)* | ✅ Setup Finished |
 | **Round 2** | *Broadcast link pending* | ⏳ Pending Setup |
 | **Round 3** | *Broadcast link pending* | ⏳ Pending Setup |
 | **Round 4** | *Broadcast link pending* | ⏳ Pending Setup |
