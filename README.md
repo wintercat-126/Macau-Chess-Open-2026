@@ -16,6 +16,6 @@ This is an unofficial archive of games from the Macau Chess Open. This archive w
 
 ## Important Notes
 
-* **Forfeited Games:** Forfeited games are not archived.
+* **Forfeited Games:** Forfeited games / Games that are won by abandonment are not archived in this archive.
 * **Data Limitations:** Clock times and Elo data are not available.
-* **Damaged Scoresheets:** Some historical scoresheets contain missing or illegal moves. We try our best to reconstruct and restore these games. If a game cannot be accurately restored, it is excluded from the archive.
+* **Damaged Scoresheets:** Some scoresheets contain missing or illegal moves. We try our best to reconstruct and restore these games. If a game cannot be accurately restored, it is excluded from the archive.
