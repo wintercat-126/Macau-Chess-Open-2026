@@ -11,6 +11,8 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 
 ## ♟️ Registered Competitors (46 Total)
 
+### 🔤 Players A - D
+
 | # | Player Name | Seed | Notes |
 | :---: | :--- | :---: | :--- |
 | **01** | Aden | 36 |  |
@@ -25,12 +27,22 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **10** | Charles | 25 |  |
 | **11** | Chase | 10 | Withdrew at Round 3 |
 | **12** | David | 6 |  |
+
+### 🔤 Players E - H
+
+| # | Player Name | Seed | Notes |
+| :---: | :--- | :---: | :--- |
 | **13** | Elvan | 5 |  |
 | **14** | Ezra | 23 |  |
 | **15** | Fernando | 26 |  |
 | **16** | Gabriel Lo | 19 |  |
 | **17** | Hazel | 8 |  |
 | **18** | Hinhin | 38 |  |
+
+### 🔤 Players I - L
+
+| # | Player Name | Seed | Notes |
+| :---: | :--- | :---: | :--- |
 | **19** | Jason | 13 |  |
 | **20** | Jayden Lam | 35 |  |
 | **21** | Jicarus | 28 |  |
@@ -43,6 +55,11 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **28** | Lon | 40 |  |
 | **29** | Louis | 22 |  |
 | **30** | Luka | 30 |  |
+
+### 🔤 Players M - P
+
+| # | Player Name | Seed | Notes |
+| :---: | :--- | :---: | :--- |
 | **31** | Martin | 42 | Joined at Round 2 |
 | **32** | Matias | 32 |  |
 | **33** | Matthew Wong | 14 |  |
@@ -50,6 +67,11 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **35** | Mike Ng | 7 | Withdrew at Round 3 |
 | **36** | Miles | 43 | Joined at Round 2 |
 | **37** | Nelson | 17 |  |
+
+### 🔤 Players U - Z
+
+| # | Player Name | Seed | Notes |
+| :---: | :--- | :---: | :--- |
 | **38** | Rafael | 20 |  |
 | **39** | Remy Chan | 11 |  |
 | **40** | Reve | 27 |  |
@@ -63,5 +85,5 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 ---
 
 ### 📝 Directory Notes for Maintainer
-* Once your list is finalized alphabetically, you can replace the placeholder names and seeds.
-* You can add headers like `### 🔤 Players A - D` directly between the table rows later on to fully activate those top quick-jump navigation buttons!
+* Custom group headers have been inserted between table segments to activate the quick-jump menu navigation buttons. 
+* To preserve formatting, ensure any future table structure adjustments remain bound within these markdown subheadings.
