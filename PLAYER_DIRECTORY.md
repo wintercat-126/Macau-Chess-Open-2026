@@ -15,12 +15,12 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | :---: | :--- | :---: | :--- |
 | **01** | Aden | 36 |  |
 | **02** | Aidan | 33 |  |
-| **03** | Alex | 41 |  |
+| **03** | Alex | 41 | Joined at Round 2 |
 | **04** | Alfred | 18 |  |
-| **05** | Alvin Cheang | 44 |  |
+| **05** | Alvin Cheang | 44 | Joined at Round 2 |
 | **06** | Anderson | 37 |  |
 | **07** | Andy | 4 |  |
-| **08** | Antonio | 45 |  |
+| **08** | Antonio | 45 | Joined at Round 2 |
 | **09** | Benson | 3 |  |
 | **10** | Charles | 25 |  |
 | **11** | Chase | 10 |  |
@@ -36,19 +36,19 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **21** | Jicarus | 28 |  |
 | **22** | Joao Roxo | 1 |  |
 | **23** | Julian | 16 |  |
-| **24** | Katrina | 46 |  |
+| **24** | Katrina | 46 | Joined at Round 2 |
 | **25** | Kobe Ho | 21 |  |
 | **26** | Kyle Ho | 31 |  |
 | **27** | Kyle Tang | 9 |  |
 | **28** | Lon | 40 |  |
 | **29** | Louis | 22 |  |
 | **30** | Luka | 30 |  |
-| **31** | Martin | 42 |  |
+| **31** | Martin | 42 | Joined at Round 2 |
 | **32** | Matias | 32 |  |
 | **33** | Matthew Wong | 14 |  |
 | **34** | McKenna | 34 |  |
 | **35** | Mike Ng | 7 |  |
-| **36** | Miles | 43 |  |
+| **36** | Miles | 43 | Joined at Round 2 |
 | **37** | Nelson | 17 |  |
 | **38** | Rafael | 20 |  |
 | **39** | Remy Chan | 11 |  |
