@@ -23,7 +23,7 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **08** | Antonio | 45 | Joined at Round 2 |
 | **09** | Benson | 3 |  |
 | **10** | Charles | 25 |  |
-| **11** | Chase | 10 |  |
+| **11** | Chase | 10 | Withdrew at Round 3 |
 | **12** | David | 6 |  |
 | **13** | Elvan | 5 |  |
 | **14** | Ezra | 23 |  |
