@@ -22,7 +22,7 @@ You can follow the replayed games of the **2026 Macau Chess Open** with full com
 
 ### 🧩 How the Archive Transmission Works
 
-Because the tournament does not use electronic DGT sensor boards, games cannot be updated in real-time move-by-move. Instead, our archive team manually photographs the physical scoresheets at the conclusion of each round and digitizes the data. 
+Because the tournament does not use electronic DGT sensor boards, games cannot be updated in real-time move-by-move. Instead, our archive team manually photographs the physical scoresheets at the end of each round and digitizes the data. 
 
 * ⏱️ **Update Schedule:** Data entry processing times will vary. Our goal is to have all recoverable games from the current round fully typed, verified, and uploaded before the next round begins.
-* 📂 **Raw Files:** You can always explore the raw PGN files, player pairings, and cross-tables directly within our official [Games and Information](./Games%20and%20Information/) folder.
+* 📂 **Raw Files:** You can always explore the raw PGN files, player pairings, and cross-tables directly within our non-official [Games and Information](./Games%20and%20Information/) folder.
