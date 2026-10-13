@@ -1,7 +1,7 @@
 # Macau Chess Open 2026 — Game Data & Archive Corrections
 
 > ⚠️ **Important Note on Data Integrity**
-> Some scoresheets from the tournament contained missing or illegal moves. The organizing committee makes every effort to reconstruct and restore these games using secondary records. If a game cannot be accurately verified or restored, it is strictly excluded from the permanent archive to maintain data precision.
+> Some scoresheets from the tournament contained missing or illegal moves. Our team makes every effort to reconstruct and restore these games using secondary records. If a game cannot be accurately verified or restored, it is excluded from the permanent archive to maintain data precision.
 
 ---
 
