@@ -41,7 +41,7 @@ Qd7 15. Qa8+ 1/2-1/2
 [WhiteCountry "MAC"]
 [BlackCountry "MAC"]
 [Result "1-0"]
-[Termination "White won by resignation"]
+[Termination "White Won by resignation"]
 [TimeControl "5400+30"]
 [Board "5"]
 
@@ -61,7 +61,7 @@ Qf7 29. Nxd6 Qxf3 30. Qxf3 Rxf3 31. Rag1 Kf8 32. Ne4 Bc4 33. d6 Be6 34. Be7+ Kg8
 [WhiteCountry "MAC"]
 [BlackCountry "MAC"]
 [Result "1-0"]
-[Termination "White won by resignation"]
+[Termination "White Won by resignation"]
 [TimeControl "5400+30"]
 [Board "6"]
 
@@ -79,7 +79,7 @@ Rxb7 d4 22. exd4 exd4 23. Re1 a5 24. Ree7 1-0
 [WhiteCountry "MAC"]
 [BlackCountry "MAC"]
 [Result "1-0"]
-[Termination "White won by checkmate"]
+[Termination "White Won by checkmate"]
 [TimeControl "5400+30"]
 [Board "7"]
 
@@ -98,3 +98,22 @@ g3 Kf6 66. Rg5 Rc4+ 67. Kh5 Rc8 68. h4 Rh8+ 69. Kg4 Rh7 70. h5 Rh6 71. Rg8 Rh7
 Rh7 79. h6 Rh8 80. Kg6 Rh7 81. Rf8+ Kxf8 82. Kxh7 Kf7 83. g6+ Kf8 84. g7+ Kf7
 85. g8=Q+ Kf6 86. Qd5 Ke7 87. Qc6 Kd8 88. Qb7 Ke8 89. Kg7 Kd8 90. h7 Ke8 91.
 h8=R# 1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.10"]
+[Round "1"]
+[White "Reve"]
+[Black "Kyle Tang"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "0-1"]
+[Termination "Black Won by resignation"]
+[TimeControl "5400+30"]
+[Board "8"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. Ne2 Nc6 7. c3 Be7 8. g3
+0-0 9. Bg2 f6 10. Bf4 fxe5 11. dxe5 Qc7 12. 0-0 Ndxe5 13. Nxe5 Nxe5 14. Re1 Bd6
+15. b3 Ng4 16. Bxd6 Qxd6 17. Rf1 b6 18. c4 Bb7 19. Nf4 Rxf4 20. Bf3 Rd4 21. Qc2
+Ne5 22. Bg2 Rf8 23. f4 Ng4 24. Rfe1 Bc6 25. Bh3 h5 26. Qg6 Be8 27. Qg5 Rf5 28.
+Qh4 g5 29. fxg5 Nxh2 30. Bg4 Nf3 31. Bxf3 Rxh4 32. gxh4 Qg3 33. Bg2 Rf2 0-1
