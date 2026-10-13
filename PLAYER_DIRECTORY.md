@@ -11,7 +11,7 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 
 ## ♟️ Registered Competitors (46 Total)
 
-| # | Player Name (Last, First) | Seed | Notes |
+| # | Player Name | Seed | Notes |
 | :---: | :--- | :---: | :--- |
 | **01** | ** | — | — |
 | **02** | ** | — | — |
