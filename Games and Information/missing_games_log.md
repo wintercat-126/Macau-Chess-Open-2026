@@ -10,11 +10,11 @@ The following games had data recording issues on the official scoresheets and ar
 
 | Board | Matchup | Issue | Status |
 | :---: | :--- | :--- | :--- |
-| **Board 3** | Benson vs. Ezra | Missing or illegal moves | ⏳ Currently under review |
-| **Board 4** | Theo vs. Andy | Missing or illegal moves | ⏳ Currently under review |
+| **Board 3** | Benson vs. Ezra | Missing or Illegal moves | ⏳ Currently under review |
+| **Board 4** | Theo vs. Andy | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 12** | Matias vs. Serena | Uncompleted game score | ⏳ Currently under review |
-| **Board 14** | McKenna vs. Matthew Wong | Missing or illegal moves | ⏳ Currently under review |
-| **Board 19** | Gabriel Lo vs. Rory | Missing or illegal moves | ⏳ Currently under review |
+| **Board 14** | McKenna vs. Matthew Wong | Missing or Illegal moves | ⏳ Currently under review |
+| **Board 19** | Gabriel Lo vs. Rory | Missing or Illegal moves | ⏳ Currently under review |
 
 ---
 
@@ -26,3 +26,4 @@ The following games had data recording issues on the official scoresheets and ar
 | **Board 3** | Julian vs. Benson | White Won by Abandonment | 🚫 Game Excluded |
 | **Board 11** | Sixing Li vs. Mike Ng | White Won by Abandonment | 🚫 Game Excluded |
 | **Board 12** | Chase vs. McKenna | Black Won by Abandonment | 🚫 Game Excluded |
+| **Board 20** | Miles vs. Theo | Missing or Illegal moves | ⏳ Currently under review |
