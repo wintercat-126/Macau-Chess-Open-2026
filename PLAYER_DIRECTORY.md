@@ -47,7 +47,7 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 | **32** | Matias | 32 |  |
 | **33** | Matthew Wong | 14 |  |
 | **34** | McKenna | 34 |  |
-| **35** | Mike Ng | 7 |  |
+| **35** | Mike Ng | 7 | Withdrew at Round 3 |
 | **36** | Miles | 43 | Joined at Round 2 |
 | **37** | Nelson | 17 |  |
 | **38** | Rafael | 20 |  |
