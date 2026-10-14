@@ -84,6 +84,3 @@ This is the comprehensive player index for the **2026 Macau Chess Open**. It lis
 
 ---
 
-### 📝 Directory Notes for Maintainer
-* Custom group headers have been inserted between table segments to activate the quick-jump menu navigation buttons. 
-* To preserve formatting, ensure any future table structure adjustments remain bound within these markdown subheadings.
