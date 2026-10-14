@@ -23,7 +23,7 @@ The continuity and success of the tournament over the decades are credited to th
 
 ---
 
-## ⚠️ Data & Archive Integrity Policies
+## ⚠️ Data & Archive Integrity Notices
 
 To ensure the historical reliability of this database, please keep the following data limitations and archive boundaries in mind:
 
