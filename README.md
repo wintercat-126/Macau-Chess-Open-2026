@@ -8,7 +8,7 @@ This is an unofficial, personal-maintained digital archive of games from the **2
 
 ### 📜 Tournament History & Format
 * **Est. 1984:** The Macau Open was founded in 1984 and has been held annually as Macau's premier chess event.
-* **Format & Time Control:** Hosted as a standard open tournament with a standard time control of **90 minutes + 30-second increment** per move.
+* **Format & Time Control:** Hosted as a standard **Swiss** open tournament with a standard time control of **90 minutes + 30-second increment** per move.
 * **Olympiad Selection Hub:** Every two years, this tournament serves as the official qualifying stage. The **top 5 finishers** earn the right to represent Macau on the international stage at the **FIDE Chess Olympiad**.
 
 ### 💼 Tournament Leadership Timeline
