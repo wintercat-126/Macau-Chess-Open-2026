@@ -23,7 +23,7 @@ The following games had data recording issues on the official scoresheets and ar
 
 | Board | Matchup | Issue | Status |
 | :---: | :--- | :--- | :--- |
-| **Board 3** | Julian vs. Benson | White Won by Abandonment | 🚫 Game Excluded |
-| **Board 11** | Sixing Li vs. Mike Ng | White Won by Abandonment | 🚫 Game Excluded |
-| **Board 12** | Chase vs. McKenna | Black Won by Abandonment | 🚫 Game Excluded |
+| **Board 3** | Julian vs. Benson | Forfeit Win (+ : -) | 🚫 Game Omitted |
+| **Board 11** | Sixing Li vs. Mike Ng | Forfeit Win (+ : -) | 🚫 Game Omitted |
+| **Board 12** | Chase vs. McKenna | Forfeit Loss (- : +) | 🚫 Game Omitted |
 | **Board 20** | Miles vs. Theo | Missing or Illegal moves | ⏳ Currently under review |
