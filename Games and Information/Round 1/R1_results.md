@@ -1,6 +1,6 @@
 # ♟️ 2026 Macau Chess Open — Round 1 Results
 
-This document contains the official pairings and results for **Round 1** of the 2026 Macau Chess Open, played on October 3, 2026.
+This document contains the official pairings and results for **Round 1** of the 2026 Macau Chess Open.
 
 ---
 
