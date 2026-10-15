@@ -11,7 +11,6 @@ The following games had data recording issues on the official scoresheets and ar
 | Board | Matchup | Issue | Status |
 | :---: | :--- | :--- | :--- |
 | **Board 3** | Benson vs. Ezra | Missing or Illegal moves | ⏳ Currently under review |
-| **Board 4** | Theo vs. Andy | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 12** | Matias vs. Serena | Uncompleted game score | ⏳ Currently under review |
 | **Board 14** | McKenna vs. Matthew Wong | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 19** | Gabriel Lo vs. Rory | Missing or Illegal moves | ⏳ Currently under review |
@@ -19,7 +18,7 @@ The following games had data recording issues on the official scoresheets and ar
 ---
 
 ## 📅 Round 2
-*Data tracking for Round 2 is actively being updated. Adjustments will be listed below as scoresheets are processed.*
+The following games had data recording issues on the official scoresheets and are undergoing reconstruction or evaluation:
 
 | Board | Matchup | Issue | Status |
 | :---: | :--- | :--- | :--- |
