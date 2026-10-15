@@ -57,8 +57,7 @@ This document contains the official standings after **Round 1** of the 2026 Maca
 
 ---
 
-## 📌 Reference and Technical Keys
-* **Seed**: The permanent starting layout registration number assigned to a player before the tournament based on structural criteria or entry sequence.
+## 📌 Reference and Technical Notices
 * **M-Buch.**: Median Buchholz score.
 * **Buch.**: Buchholz score.
 * **Progr.**: Progressive score.
