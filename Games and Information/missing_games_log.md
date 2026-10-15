@@ -10,7 +10,6 @@ The following games had data recording issues on the official scoresheets and ar
 
 | Board | Matchup | Issue | Status |
 | :---: | :--- | :--- | :--- |
-| **Board 3** | Benson vs. Ezra | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 12** | Matias vs. Serena | Uncompleted game score | ⏳ Currently under review |
 | **Board 14** | McKenna vs. Matthew Wong | Missing or Illegal moves | ⏳ Currently under review |
 | **Board 19** | Gabriel Lo vs. Rory | Missing or Illegal moves | ⏳ Currently under review |
