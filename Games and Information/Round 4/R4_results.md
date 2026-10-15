@@ -1,10 +1,10 @@
-# ♟️ 2026 Macau Chess Open — Round 3 Results
+# ♟️ 2026 Macau Chess Open — Round 4 Results
 
-This document contains the official pairings and results for **Round 3** of the 2026 Macau Chess Open.
+This document contains the official pairings and results for **Round 4** of the 2026 Macau Chess Open.
 
 ---
 
-## 📊 Round 3 Match Results
+## 📊 Round 4 Match Results
 
 | Board | White Player | Seed | Result | Black Player | Seed |
 | :---: | :--- | :---: | :---: | :--- | :---: |
