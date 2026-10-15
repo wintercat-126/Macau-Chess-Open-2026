@@ -1,6 +1,6 @@
 # ♟️ 2026 Macau Chess Open — Round 1 Results
 
-This document contains the official pairings and matching outcomes for **Round 1** of the 2026 Macau Chess Open, played on October 3, 2026.
+This document contains the official pairings and results for **Round 1** of the 2026 Macau Chess Open, played on October 3, 2026.
 
 ---
 
@@ -33,7 +33,6 @@ This document contains the official pairings and matching outcomes for **Round 1
 
 ## 📝 Round Summary
 * **Total Boards:** 20
-* **White Wins:** 11
-* **Black Wins:** 9
+* **White Wins:** 9
+* **Black Wins:** 11
 * **Draws:** 0
-* **Absences/Late Registrations:** 6 players did not participate in Round 1 pairings (Alex, Alvin Cheang, Antonio, Katrina, Martin, Miles joined starting from Round 2).
