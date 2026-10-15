@@ -40,6 +40,25 @@ Bxb2 0-1
 [Site "Cotai Bowling Centre, Macau"]
 [Date "2026.10.03"]
 [Round "1"]
+[White "Benson"]
+[Black "Ezra"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White Won by resignation"]
+[TimeControl "5400+30"]
+[Board "3"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 Bd7 7. Bg5 Qg6 8.
+h4 Qe4+ 9. Be2 c5 10. Be3 cxd4 11. Bxd4 Nc6 12. c3 Nxd4 13. Qxd4 Qxd4 14. Nxd4
+Be7 15. O-O-O e5 16. Nb5 Bxb5 17. Bxb5+ Kf8 18. Rd7 a6 19. Bc4 Rc8 20. Rxb7 g5
+21. h5 h6 22. Bxa6 Rd8 23. Rd1 Rxd1+ 24. Kxd1 Bf6 25. Bc4 Rh7 26. g4 e4 27. Bd5
+1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.03"]
+[Round "1"]
 [White "Theo"]
 [Black "Andy"]
 [WhiteCountry "MAC"]
