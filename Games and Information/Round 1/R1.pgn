@@ -40,6 +40,25 @@ Bxb2 0-1
 [Site "Cotai Bowling Centre, Macau"]
 [Date "2026.10.03"]
 [Round "1"]
+[White "Theo"]
+[Black "Andy"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "0-1"]
+[Termination "Black Won by checkmate"]
+[TimeControl "5400+30"]
+[Board "4"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bb5 Bd7 6. Nc3 Qb6 7. O-O Nge7 8. Bg5
+a6 9. Bxe7 Bxe7 10. dxc5 Bxc5 11. Na4 Qxb5 12. Nc3 Qa5 13. Re1 O-O 14. a3 Qc7
+15. b4 Nxb4 16. axb4 Bxb4 17. Qd3 Bxc3 18. Re3 Bxa1 19. Re2 Qc3 20. Qd1 Rfc8 21.
+Ne1 Bb5 22. Rd2 Qxe5 23. Nf3 Qf6 24. Nd4 Bxd4 25. Rxd4 a5 26. g3 Rc4 27. Rd2 a4
+28. Kf1 Rxc2+ 29. Ke1 Qe5+ 30. Qe2 Rc1+ 31. Rd1 Qxe2# 0-1
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.03"]
+[Round "1"]
 [White "Elvan"]
 [Black "Charles"]
 [WhiteCountry "MAC"]
