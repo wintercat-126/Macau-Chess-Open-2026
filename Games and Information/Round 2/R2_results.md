@@ -7,7 +7,7 @@ This document contains the official pairings and results for **Round 2** of the 
 ## 📊 Round 2 Match Results
 
 | Board | White Player | Seed | Result | Black Player | Seed |
-| :---: | :--- | :---: | :---: | :--- | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | **01** | Matthew Wong | 14 | **.5 : .5** | Joao Roxo | 1 |
 | **02** | Tyler | 2 | **1 : 0** | Thomas | 15 |
 | **03** | Julian | 16 | **+ : -** | Benson | 3 |
