@@ -7,9 +7,9 @@ This document contains the official pairings and results for **Round 3** of the 
 ## 📊 Round 3 Match Results
 
 | Board | White Player | Seed | Result | Black Player | Seed |
-| :---: | :--- | :---: | :---: | :--- | :---: |
-| **01** | | | | | |
-| **02** | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **01** | Jason | 13 | | Tyler | 2 |
+| **02** | Julian | 16 | | David | 6 |
 | **03** | | | | | |
 | **04** | | | | | |
 | **05** | | | | | |
