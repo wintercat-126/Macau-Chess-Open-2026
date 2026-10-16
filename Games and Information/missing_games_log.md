@@ -27,3 +27,11 @@ The following games had data recording issues on the official scoresheets and ar
 | **Board 11** | Sixing Li vs. Mike Ng | Forfeit Win (+ : -) | 🚫 Game Omitted |
 | **Board 12** | Chase vs. McKenna | Forfeit Loss (- : +) | 🚫 Game Omitted |
 | **Board 20** | Miles vs. Theo | Missing or Illegal moves | ⏳ Currently under review |
+
+---
+
+## 📅 Round 3
+*Data tracking for Round 3 will begin as soon as the matches conclude. Adjustments and verification issues will be updated live as scoresheets are processed.*
+
+| Board | Matchup | Issue | Status |
+| :---: | :--- | :--- | :--- |
