@@ -7,7 +7,7 @@ This document contains the official pairings and results for **Round 1** of the 
 ## 📊 Round 1 Match Results
 
 | Board | White Player | Seed | Result | Black Player | Seed |
-| :---: | :--- | :---: | :---: | :--- | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | **01** | Joao Roxo | 1 | **1 : 0** | Kobe Ho | 21 |
 | **02** | Louis | 22 | **0 : 1** | Tyler | 2 |
 | **03** | Benson | 3 | **1 : 0** | Ezra | 23 |
