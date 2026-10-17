@@ -35,3 +35,5 @@ The following games had data recording issues on the official scoresheets and ar
 
 | Board | Matchup | Issue | Status |
 | :---: | :--- | :--- | :--- |
+| **Board 9** | Remy Chan vs. McKenna | Forfeit Lose (- : +) | 🚫 Game Omitted |
+| **Board 19** | Aden vs. Kobe Ho | Forfeit Lose (- : +) | 🚫 Game Omitted |
